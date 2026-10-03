@@ -1,0 +1,14 @@
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\bin\Debug\net10.0\matriz.exe
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\bin\Debug\net10.0\matriz.deps.json
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\bin\Debug\net10.0\matriz.runtimeconfig.json
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\bin\Debug\net10.0\matriz.dll
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\bin\Debug\net10.0\matriz.pdb
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\matriz.AssemblyInfoInputs.cache
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\matriz.AssemblyInfo.cs
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\matriz.csproj.CoreCompileInputs.cache
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\matriz.dll
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\refint\matriz.dll
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\matriz.pdb
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\matriz.genruntimeconfig.cache
+C:\Users\katia\OneDrive\Documentos\atividadedia2\matriz\obj\Debug\net10.0\ref\matriz.dll
